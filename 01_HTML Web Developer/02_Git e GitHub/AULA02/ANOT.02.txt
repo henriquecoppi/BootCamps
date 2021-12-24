@@ -1,0 +1,25 @@
+cd -  Abre pastas
+
+dir - listar pastas
+
+mkdir - Cria pasta
+
+cd.. - Volta uma pasta
+
+cd + W + tab - autoprenche
+
+rmdir /s /q - deleta pasta
+
+Comandos git
+
+git init 
+
+git add nome do arquivo
+
+git commit 
+
+git log
+
+git status
+
+

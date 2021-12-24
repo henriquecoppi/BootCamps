@@ -1,0 +1,26 @@
+inicio
+
+pinguin azul filhote 
+pinguin azul pai sobe
+atravesa 
+pinguin azul pai desse
+atravessa 
+pinguin verde filhote 
+atravesa 
+pinguin azul filhote 
+atravessa 
+pinguin verde pai sobe
+atravessa 
+pinguin verde pai desse
+atravesa
+pinguin vermelho filhote sobe no gelo
+atrevesa
+pinguin verde filhote desse do gelo
+atravesa
+pinguin vermelho filhote 
+atravessa
+pinguin vermelho pai sobe no gelo
+atravesa
+
+fim
+

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="henri"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-09-12 07:04:05 "/>
+        <attribute name="created" value="aGVucmk7REVTS1RPUC1TRVY2RFBOOzIwMjEtMDktMTI7IjA0OjI1OjM0ICI7MjgyNQ=="/>
+        <attribute name="edited" value="aGVucmk7REVTS1RPUC1TRVY2RFBOOzIwMjEtMDktMTI7IjA3OjA0OjA1ICI7MzsyOTMz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nota1, nota2, nota3, nota4, media" type="Real" array="False" size=""/>
+            <input variable="nota1"/>
+            <input variable="nota2"/>
+            <input variable="nota3"/>
+            <input variable="nota4"/>
+            <assign variable="media" expression="(nota1+nota2+nota3+nota4)/4"/>
+            <output expression="media" newline="True"/>
+            <if expression="media&gt;=7">
+                <then>
+                    <output expression="&quot;Parabens voce atingiu a media e pulou de nivel&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;infelismente voce nao passou de ano&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="henri"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-09-12 06:55:53 "/>
+        <attribute name="created" value="aGVucmk7REVTS1RPUC1TRVY2RFBOOzIwMjEtMDktMTI7IjA2OjQ1OjEwICI7MjgyMw=="/>
+        <attribute name="edited" value="aGVucmk7REVTS1RPUC1TRVY2RFBOOzIwMjEtMDktMTI7IjA2OjU1OjUzICI7MjsyOTQw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="cliente" type="String" array="False" size=""/>
+            <declare name="cartao" type="Boolean" array="False" size=""/>
+            <declare name="numero" type="String" array="False" size=""/>
+            <input variable="cliente"/>
+            <input variable="cartao"/>
+            <if expression="cartao">
+                <then>
+                    <input variable="numero"/>
+                </then>
+                <else>
+                    <output expression="&quot;infelizmente voc&#234; nao consegue finalizar a copmra&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

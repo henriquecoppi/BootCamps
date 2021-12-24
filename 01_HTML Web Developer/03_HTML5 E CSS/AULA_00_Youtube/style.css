@@ -1,0 +1,78 @@
+body{
+    background-color: white;
+    font-family: Verdana;
+    width: 900px; /* aumenta ou diminiu a largura da pagina */
+
+}
+
+.zero_h1
+{
+    font-size: 40px; /* tamanho da fonte do titulo = >Bem vindo ao primeiro projeto HTML5 e CSS */
+    text-transform: uppercase; /* coloca o texto em caixa alta */
+    color: red;
+    background: rgb(123, 33, 93); 
+    border-radius: 20px;
+    border: 3px solid rgba(0, 10, 145, 0.857);
+}
+
+
+
+.primeiro_h1
+{
+color: blue;
+    background: yellow;
+    padding-left: 30px;
+    padding-right:  30px;
+    padding-top:  30px;
+    padding-bottom:  30px;
+    border: 3px solid black;
+    margin: 50px;
+    border-radius: 50px; 
+
+}
+
+
+#segundo_h1
+{
+color: red;
+    background: blue;
+    padding-left: 30px;
+    padding-right:  30px;
+    padding-top:  30px;
+    padding-bottom:  30px;
+    border: 3px solid black;
+    margin: 50px;
+
+}
+#terceiro_h1{
+color: yellow;
+    background: cyan;
+    padding-left: 30px;
+    padding-right:  30px;
+    padding-top:  30px;
+    padding-bottom:  30px;
+    border: 3px solid black;
+    margin: 50px;
+    border-radius: 50px;
+}
+
+.primeiro_h3
+{
+color: blue;
+    background: rgb(206, 30, 177);
+    padding-left: 30px;
+    padding-right:  30px;
+    padding-top:  30px;
+    padding-bottom:  30px;
+    border: 3px solid rgb(243, 0, 0);
+    margin: 50px;
+    border-bottom-left-radius: 70px;
+    border-bottom-right-radius: 70PX;
+}
+
+.centro{
+    border: 3px solid rgba(0, 0, 0, 0.953);
+    margin: 50px;
+    width: 100%;
+
+}
