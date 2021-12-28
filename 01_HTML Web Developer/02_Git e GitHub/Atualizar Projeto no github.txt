@@ -1,0 +1,13 @@
+Atualizar projeto
+
+01 - Abrir o getbash na pasta
+
+02 - git status para verificar oque mudou
+
+06 - git add . para adicionar atualização no diretorio local = adciona no diretorio local
+
+07 - git commit -m "observação oque foi alterado" = atualiza no diretorio local
+
+08 - git pull origin main =  verifica se foi alterado por outro usuario
+
+09 - git push origin main = Enviar servidor  
