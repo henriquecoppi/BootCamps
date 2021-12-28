@@ -1,3 +1,3 @@
 # BootCamps 
 
-Olá tenterei manter esse espaço com os conteudos do Bootcamp da Digital Inovation One.
+Olá tentarei manter esse espaço com os conteudos do Bootcamp da Digital Inovation One.
