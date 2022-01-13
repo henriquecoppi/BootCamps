@@ -11,3 +11,8 @@ Atualizar projeto
 08 - git pull origin main =  verifica se foi alterado por outro usuario
 
 09 - git push origin main = Enviar servidor  
+
+
+Novo Repositorio
+
+clonar repositorio = git clone
